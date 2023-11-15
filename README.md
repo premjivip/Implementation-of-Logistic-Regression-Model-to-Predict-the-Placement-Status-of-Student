@@ -33,7 +33,7 @@ Apply new unknown values and print all the acqirred values for accuracy, confusi
 End the program. 
 
 ## Program:
-
+```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by:premji p
@@ -95,6 +95,7 @@ classification_report1
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
+```
 
 ## Output:
 # HEAD OF THE DATA :
